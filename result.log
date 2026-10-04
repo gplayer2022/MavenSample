@@ -1,0 +1,280 @@
+ ドライブ D のボリューム ラベルは ボリューム です
+ ボリューム シリアル番号は F452-776C です
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample のディレクトリ
+
+2026/10/04  23:45    <DIR>          .
+2026/10/04  23:45    <DIR>          ..
+2026/10/04  23:22             1,568 .classpath
+2026/10/04  23:44                 9 .gitignore
+2026/10/04  23:13               540 .project
+2026/10/04  23:13    <DIR>          .settings
+2026/10/04  23:13               376 pom.xml
+2026/10/04  23:46                55 README.md
+2026/10/04  23:47                 0 result.log
+2026/10/04  23:13    <DIR>          src
+2026/10/04  23:25    <DIR>          target
+               6 個のファイル               2,548 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\.git のディレクトリ
+
+2026/10/04  23:44    <DIR>          branches
+2026/10/04  23:44                97 config
+2026/10/04  23:44                23 HEAD
+2026/10/04  23:44    <DIR>          hooks
+2026/10/04  23:44    <DIR>          logs
+2026/10/04  23:44    <DIR>          objects
+2026/10/04  23:43    <DIR>          refs
+               2 個のファイル                 120 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\.git\branches のディレクトリ
+
+2026/10/04  23:44    <DIR>          .
+2026/10/04  23:44    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\.git\hooks のディレクトリ
+
+2026/10/04  23:44    <DIR>          .
+2026/10/04  23:44    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\.git\logs のディレクトリ
+
+2026/10/04  23:44    <DIR>          .
+2026/10/04  23:44    <DIR>          ..
+2026/10/04  23:44    <DIR>          refs
+               0 個のファイル                   0 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\.git\logs\refs のディレクトリ
+
+2026/10/04  23:44    <DIR>          .
+2026/10/04  23:44    <DIR>          ..
+2026/10/04  23:44    <DIR>          heads
+               0 個のファイル                   0 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\.git\logs\refs\heads のディレクトリ
+
+2026/10/04  23:44    <DIR>          .
+2026/10/04  23:44    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\.git\objects のディレクトリ
+
+2026/10/04  23:44    <DIR>          .
+2026/10/04  23:44    <DIR>          ..
+2026/10/04  23:44    <DIR>          info
+2026/10/04  23:44    <DIR>          pack
+               0 個のファイル                   0 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\.git\objects\info のディレクトリ
+
+2026/10/04  23:44    <DIR>          .
+2026/10/04  23:44    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\.git\objects\pack のディレクトリ
+
+2026/10/04  23:44    <DIR>          .
+2026/10/04  23:44    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\.git\refs のディレクトリ
+
+2026/10/04  23:43    <DIR>          .
+2026/10/04  23:43    <DIR>          ..
+2026/10/04  23:43    <DIR>          heads
+2026/10/04  23:43    <DIR>          tags
+               0 個のファイル                   0 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\.git\refs\heads のディレクトリ
+
+2026/10/04  23:43    <DIR>          .
+2026/10/04  23:43    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\.git\refs\tags のディレクトリ
+
+2026/10/04  23:43    <DIR>          .
+2026/10/04  23:43    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\.settings のディレクトリ
+
+2026/10/04  23:13    <DIR>          .
+2026/10/04  23:13    <DIR>          ..
+2026/10/04  23:22               768 org.eclipse.jdt.core.prefs
+2026/10/04  23:13                86 org.eclipse.m2e.core.prefs
+               2 個のファイル                 854 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\src のディレクトリ
+
+2026/10/04  23:13    <DIR>          .
+2026/10/04  23:13    <DIR>          ..
+2026/10/04  23:13    <DIR>          main
+2026/10/04  23:13    <DIR>          test
+               0 個のファイル                   0 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\src\main のディレクトリ
+
+2026/10/04  23:13    <DIR>          .
+2026/10/04  23:13    <DIR>          ..
+2026/10/04  23:17    <DIR>          java
+2026/10/04  23:13    <DIR>          resources
+               0 個のファイル                   0 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\src\main\java のディレクトリ
+
+2026/10/04  23:17    <DIR>          .
+2026/10/04  23:17    <DIR>          ..
+2026/10/04  23:17    <DIR>          io
+               0 個のファイル                   0 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\src\main\java\io のディレクトリ
+
+2026/10/04  23:17    <DIR>          .
+2026/10/04  23:17    <DIR>          ..
+2026/10/04  23:17    <DIR>          github
+               0 個のファイル                   0 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\src\main\java\io\github のディレクトリ
+
+2026/10/04  23:17    <DIR>          .
+2026/10/04  23:17    <DIR>          ..
+2026/10/04  23:17    <DIR>          gplayer2022
+               0 個のファイル                   0 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\src\main\java\io\github\gplayer2022 のディレクトリ
+
+2026/10/04  23:17    <DIR>          .
+2026/10/04  23:17    <DIR>          ..
+2026/10/04  23:25               897 App.java
+               1 個のファイル                 897 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\src\main\resources のディレクトリ
+
+2026/10/04  23:13    <DIR>          .
+2026/10/04  23:13    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\src\test のディレクトリ
+
+2026/10/04  23:13    <DIR>          .
+2026/10/04  23:13    <DIR>          ..
+2026/10/04  23:13    <DIR>          java
+2026/10/04  23:13    <DIR>          resources
+               0 個のファイル                   0 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\src\test\java のディレクトリ
+
+2026/10/04  23:13    <DIR>          .
+2026/10/04  23:13    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\src\test\resources のディレクトリ
+
+2026/10/04  23:13    <DIR>          .
+2026/10/04  23:13    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\target のディレクトリ
+
+2026/10/04  23:25    <DIR>          .
+2026/10/04  23:25    <DIR>          ..
+2026/10/04  23:22    <DIR>          classes
+2026/10/04  23:25    <DIR>          site
+2026/10/04  23:13    <DIR>          test-classes
+               0 個のファイル                   0 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\target\classes のディレクトリ
+
+2026/10/04  23:22    <DIR>          .
+2026/10/04  23:22    <DIR>          ..
+2026/10/04  23:22    <DIR>          io
+2026/10/04  23:22    <DIR>          META-INF
+               0 個のファイル                   0 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\target\classes\io のディレクトリ
+
+2026/10/04  23:22    <DIR>          .
+2026/10/04  23:22    <DIR>          ..
+2026/10/04  23:22    <DIR>          github
+               0 個のファイル                   0 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\target\classes\io\github のディレクトリ
+
+2026/10/04  23:22    <DIR>          .
+2026/10/04  23:22    <DIR>          ..
+2026/10/04  23:22    <DIR>          gplayer2022
+               0 個のファイル                   0 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\target\classes\io\github\gplayer2022 のディレクトリ
+
+2026/10/04  23:22    <DIR>          .
+2026/10/04  23:22    <DIR>          ..
+2026/10/04  23:25             2,137 App.class
+               1 個のファイル               2,137 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\target\classes\META-INF のディレクトリ
+
+2026/10/04  23:22    <DIR>          .
+2026/10/04  23:22    <DIR>          ..
+2026/10/04  23:22                88 MANIFEST.MF
+2026/10/04  23:22    <DIR>          maven
+               1 個のファイル                  88 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\target\classes\META-INF\maven のディレクトリ
+
+2026/10/04  23:22    <DIR>          .
+2026/10/04  23:22    <DIR>          ..
+2026/10/04  23:22    <DIR>          io.github.gplayer2022
+               0 個のファイル                   0 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\target\classes\META-INF\maven\io.github.gplayer2022 のディレクトリ
+
+2026/10/04  23:22    <DIR>          .
+2026/10/04  23:22    <DIR>          ..
+2026/10/04  23:22    <DIR>          MavenSample
+               0 個のファイル                   0 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\target\classes\META-INF\maven\io.github.gplayer2022\MavenSample のディレクトリ
+
+2026/10/04  23:22    <DIR>          .
+2026/10/04  23:22    <DIR>          ..
+2026/10/04  23:22               271 pom.properties
+2026/10/04  23:22               376 pom.xml
+               2 個のファイル                 647 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\target\site のディレクトリ
+
+2026/10/04  23:25    <DIR>          .
+2026/10/04  23:25    <DIR>          ..
+2026/10/04  23:25               248 index.html
+               1 個のファイル                 248 バイト
+
+ D:\Archive-Document\Workspace.Common\Eclipse2024\MavenSample\target\test-classes のディレクトリ
+
+2026/10/04  23:13    <DIR>          .
+2026/10/04  23:13    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+     ファイルの総数:
+              16 個のファイル               7,539 バイト
+             101 個のディレクトリ  264,556,339,200 バイトの空き領域
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.classpath
+	.gitignore
+	.project
+	.settings/
+	README.md
+	pom.xml
+	result.log
+	src/
+
+nothing added to commit but untracked files present (use "git add" to track)
